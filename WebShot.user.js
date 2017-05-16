@@ -2,8 +2,8 @@
 // @name         WebShot
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/maoger/WebShot
-// @version      0.4
-// @description  自动展开《国家企业信用信息公示系统》所有隐藏标签，并获取整个网页的截图。
+// @version      0.5
+// @description  快捷键“Shift + A”，获取整个网页的截图。
 // @author       Maoger
 // @include      http*://*
 // @require      http://code.jquery.com/jquery-3.2.1.min.js
