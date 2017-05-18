@@ -2,7 +2,7 @@
 // @name         WebShot
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/maoger/WebShot
-// @version      0.6
+// @version      0.6.1
 // @description  快捷键“Shift + A”，获取整个网页的截图。
 // @author       Maoger
 // @include      http*://*
@@ -38,7 +38,7 @@
             // allowTaint : true,
             // useCORS : true,
             // taintTest : false,
-            background : "#fffff",
+            background : "#fff",
             onrendered : function(canvas) {
                 // canvas.id = "mycanvas";
                 // 生成base64图片数据
