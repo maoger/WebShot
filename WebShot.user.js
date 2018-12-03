@@ -2,12 +2,12 @@
 // @name         WebShot
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/maoger/WebShot
-// @version      0.6.1
+// @version      0.6.2
 // @description  快捷键“Shift + A”，获取整个网页的截图。
 // @author       Maoger
 // @include      http*://*
 // @require      http://code.jquery.com/jquery-3.2.1.min.js
-// @require      https://maoger.github.io/js/html2canvas.js
+// @require      https://html2canvas.hertzen.com/dist/html2canvas.min.js
 // @grant        GM_openInTab
 // @updateURL    https://openuserjs.org/meta/maoger/WebShot.meta.js
 // ==/UserScript==
